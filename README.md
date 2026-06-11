@@ -136,14 +136,3 @@ RAWLAB_
 https://rawlab.space
 
 :::
-Luego:
-```bash
-git add README.md
-git commit -m "docs: add professional project documentation"
-
-Y cuando crees el repo:
-
-git remote add origin https://github.com/RAWLABdev/job-tracker-api.git
-git push -u origin main
-
-Después del README, yo avanzaría inmediatamente con Docker + PostgreSQL, porque es lo que más aumenta el valor percibido del proyecto en entrevistas.
